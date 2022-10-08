@@ -1,0 +1,2 @@
+let is a block scope element.it allows to declare a variable that is limited to the scope of the block statement where it is used.
+var is a function scope element.it declares a variable globally.it can be used to the entire function regardless of block scpoe.
